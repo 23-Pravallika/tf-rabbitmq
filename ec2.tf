@@ -30,3 +30,4 @@ resource "null_resource" "db-rabbitmq" {
 }
 
 
+
